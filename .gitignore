@@ -2,3 +2,4 @@
 Servers/
 test/.settings/org.eclipse.jdt.core.prefs
 test/.settings/org.eclipse.m2e.core.prefs
+.recommenders/
